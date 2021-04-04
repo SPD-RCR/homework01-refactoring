@@ -46,11 +46,11 @@ nav li {
   margin-left: 25px;
 }
 
-nav a {
+a {
   color: #ffffff;
   text-decoration: none;
 }
-nav a:hover {
+a:hover {
   color: #d9dcd6;
   text-decoration: underline;
 }
